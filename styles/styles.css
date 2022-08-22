@@ -33,6 +33,12 @@ li a:hover {
     color: #6ABEF3;
 }
 
+#container {
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+}
+
 #work img {
     width: 600px;
 }
