@@ -1,6 +1,7 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
     margin: 0;
+    background-color: #B2DDF7;
 }
 
 main {
@@ -9,7 +10,6 @@ main {
 }
 
 header, footer {
-    background-color: #B2DDF7;
     padding: 10px;
 }
 
