@@ -38,6 +38,7 @@ li a:hover {
     background-color: #fff;
     border-radius: 25px;
     padding: 10px;
+    box-shadow: #ccc;
 }
 
 #work img {
