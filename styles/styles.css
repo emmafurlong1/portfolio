@@ -53,3 +53,16 @@ li a:hover {
 h1 {
     font-size: 64px;
 }
+
+.skill {
+    background-color: rgb(116, 194, 92);
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.html {
+    width: 80%;
+}
