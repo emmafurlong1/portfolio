@@ -45,7 +45,6 @@ li a:hover {
 }
 
 h1 {
-    font-family: 'Farmhouse';
     font-size: 64px;
 }
 
@@ -55,6 +54,5 @@ h1 {
 
 @font-face {
     font-family: "Farmhouse";
-    src: local("Farmhouse"),
-      url("styles/font/Farmhouse.otf") format("opentype");
+    src: url("styles/font/Farmhouse.otf") format("opentype");
   }
