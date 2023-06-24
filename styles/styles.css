@@ -52,3 +52,9 @@ h1 {
 #skill {
     text-align: center;
 }
+
+@font-face {
+    font-family: "Farmhouse";
+    src: local("Farmhouse"),
+      url("styles/font/Farmhouse.otf") format("opentype");
+  }
