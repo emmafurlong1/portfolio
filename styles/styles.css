@@ -49,6 +49,11 @@ h1 {
     font-family: 'Farmhouse';
 }
 
+h2 {
+    font-size: 28px;
+    font-family: 'Farmhouse';
+}
+
 #skill {
     text-align: center;
 }
