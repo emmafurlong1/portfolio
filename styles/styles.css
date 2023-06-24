@@ -11,6 +11,7 @@ main {
 
 header, footer {
     padding: 10px;
+    background-color: #CDB4DB;
 }
 
 nav { 
