@@ -46,6 +46,7 @@ li a:hover {
 
 h1 {
     font-size: 64px;
+    font-family: 'Farmhouse';
 }
 
 #skill {
@@ -54,5 +55,10 @@ h1 {
 
 @font-face {
     font-family: "Farmhouse";
-    src: url("styles/font/Farmhouse.otf") format("opentype");
+    src: url(styles/font/Farmhouse.otf) format(opentype);
   }
+  @font-face {
+	font-family: "dirtybag";
+	src: url(/templates/dirtybag.ttf)
+	,url(/templates/dirtybag.eot); /* IE9 */
+}
