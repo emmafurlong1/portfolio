@@ -54,6 +54,6 @@ h1 {
 }
 
 @font-face {
-    font-family: "Farmhouse";
-    src: url("styles/font/Farmhouse.otf");
-  }
+    font-family: Farmhouse;
+    src: url("fonts/Farmhouse.otf") format("opentype");
+}
