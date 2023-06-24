@@ -10,6 +10,7 @@ main {
 }
 
 header, footer {
+    height: fit-content;
     padding: 10px;
     background-color: #CDB4DB;
 }
