@@ -6,7 +6,7 @@ body {
 main {
     font-size: 24px;
     padding: 5%;
-    background-image: linear-gradient(to bottom right, #CDB4DB, #E0D3E7);
+    background-image: linear-gradient(to bottom right, #CDB4DB, #FFAFCC);
 }
 
 header, footer {
