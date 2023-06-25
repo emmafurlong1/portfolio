@@ -66,6 +66,6 @@ h2 {
 
 #skills {
     background-image: linear-gradient(to bottom right, #AC83CB, #FF478B);
-    padding: 5%;
-    border-radius: 5%;
+    padding: 2%;
+    border-radius: 25px;
 }
