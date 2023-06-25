@@ -1,12 +1,12 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
     margin: 0;
+    background-color: #EDE4F1;
 }
 
 main {
     font-size: 24px;
     padding: 5%;
-    background-image: linear-gradient(to bottom right, #CDB4DB, #FFAFCC);
 }
 
 header, footer {
