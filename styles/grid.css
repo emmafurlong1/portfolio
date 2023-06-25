@@ -13,8 +13,3 @@
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
 }
-
-#about {
-    display: grid;
-    grid-template-columns: auto auto;
-}
