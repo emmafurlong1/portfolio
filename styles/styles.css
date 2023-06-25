@@ -44,8 +44,8 @@ li a:hover {
     width: 100%;
 }
 
-#about img {
-    width: 75%;
+.about img {
+    width: 100%;
 }
 
 #profile {
