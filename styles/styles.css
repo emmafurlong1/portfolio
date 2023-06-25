@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Farmhouse;
+    src: url("font/Farmhouse.otf") format("opentype");
+}
+
 body {
     font-family: 'Nunito Sans', sans-serif;
     margin: 0;
@@ -59,7 +64,8 @@ h2 {
     text-align: center;
 }
 
-@font-face {
-    font-family: Farmhouse;
-    src: url("font/Farmhouse.otf") format("opentype");
+#skills {
+    background-image: linear-gradient(to bottom right, #AC83CB, #FF478B);
+    padding: 5%;
+    border-radius: 5%;
 }
