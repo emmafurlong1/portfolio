@@ -6,19 +6,17 @@ body {
 main {
     font-size: 24px;
     padding: 5%;
-    background-color: #E0D3E7;
+    background-image: linear-gradient(to bottom right, #CDB4DB, #E0D3E7);
 }
 
 header, footer {
     height: 50px;
     padding: 10px;
-    background-color: #CDB4DB;
 }
 
 nav { 
     float: right;
     overflow: hidden;
-    background-color: #CDB4DB;
 }
 
 nav a {
