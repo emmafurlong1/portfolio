@@ -1,6 +1,7 @@
 #workitems {
     display: grid;
     grid-template-columns: auto auto;
+    gap: 5%;
 }
 
 .headergrid {
