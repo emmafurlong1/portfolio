@@ -57,15 +57,9 @@ h1 {
 h2 {
     font-size: 36px;
     font-family: 'Farmhouse';
-    color: #FFF;
+    color: #AC83C3;
 }
 
 #skill {
     text-align: center;
-}
-
-.skills {
-    background-color: #AC83CB;
-    padding: 2%;
-    border-radius: 25px;
 }
