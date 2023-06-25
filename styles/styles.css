@@ -64,8 +64,8 @@ h2 {
     text-align: center;
 }
 
-#skills {
-    background-image: linear-gradient(to bottom right, #AC83CB, #FF478B);
+.skills {
+    background-color: AC83CB;
     padding: 2%;
     border-radius: 25px;
 }
