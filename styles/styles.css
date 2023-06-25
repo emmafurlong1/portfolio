@@ -30,7 +30,9 @@ li {
 }
 
 li a:hover {
-    color: linear-gradient(to bottom right, #CDB4DB, #FFAFCC);
+    background-image: linear-gradient(to bottom right, #CDB4DB, #FFAFCC);
+    padding: 10px;
+    border-radius: 2%;
 }
 
 #work img {
